@@ -5,4 +5,4 @@ The data used on this project was taken from https://d396qusza40orc.cloudfront.n
 * README.md - This file
 * CodeBook.md - The book that describes the script, it's variables and steps
 * run_analysis.R - The script that makes it all happen
-* tidydata.txt - A sample output of tidy data
+* tidydata1.txt - A sample output of tidy data
